@@ -14,6 +14,7 @@ Read the full Medium post here:
 ## Tools Used
 ### Programming
 - Python
+- Anthropic Claude Code
 ### Libraries
 - Pandas
 - NumPy
